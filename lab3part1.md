@@ -9,9 +9,9 @@
 
 
 question 1
- 1.trust free ecommerce
- 2.+blockchain
-   +literature review
-   +sharing economy
-   +trust
-   +trust-free system
+ 1. trust free ecommerce
+ 2. blockchain
+   + literature review
+   + sharing economy
+   + trust
+   + trust-free system
