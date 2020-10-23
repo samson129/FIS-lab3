@@ -1,5 +1,17 @@
-|part 1| answer | | |
-| --- | --- | --- | ---|
-|Program name |software manufacturer |software version |software type |
-|MacOS	|Apple	|MacOS 10.15.7	|Operating System |
-|Windows	|Microsoft	|Version 1909	|Operating System |
+|part 1| answer | 
+| --- | --- 
+|keywords||
+|main appproaches||
+|major strengths||
+|major weaknesses||
+|learn from the paper||
+
+
+
+question 1
+ 1.trust free ecommerce
+ 2.+blockchain
+   +literature review
+   +sharing economy
+   +trust
+   +trust-free system
